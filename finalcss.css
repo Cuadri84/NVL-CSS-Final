@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Passion+One:700|Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Exo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mogra&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Faster+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');
+
+/*el fondo dela pagina*/
+body {
+	background: #20B79C ;
+}
+
+div{
+	padding: 50px;
+	float: left;
+}
+
+h1{
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 30px;
+	color:#007EFF;
+}
+/*footer*/
+h2,h3,h4{
+	font-family: 'Sanchez', serif;
+}
+/*letras segunda y tercera columna*/
+p#curry{
+	font-family: 'Passion One', cursive;
+	color: #FAF611;
+	font-size: 40px;
+	text-shadow: 5px 5px 5px #003DFF ;
+}
+p#greek{
+	font-family: 'Passion One', cursive;
+	font-family: 'Staatliches', cursive;
+	font-size: 40px;
+	color: #137400  ;
+	text-shadow: 5px 5px 5px #fff;
+
+}
+p#Lebron{
+	font-family: 'Exo', sans-serif;
+	font-size: 40px;
+	color: #FFD600 ;
+	text-shadow: 5px 5px 5px #A900FF ;
+
+}
+p#Kawhi{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: #003DFF ;
+	text-shadow: 5px 5px 5px #E21010 ;
+}
+p#Doncic{
+	font-family: 'Teko', sans-serif;
+	font-size: 40px;
+	color: #fff;
+	text-shadow: 5px 5px 5px #003DFF;
+
+}
+p#Jordan{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: #E7001D  ;
+	text-shadow: 5px 5px 5px #000000 ;
+}
+p#Iverson{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+	color: #000000;
+	text-shadow: 5px 5px 5px #003DFF;
+}
+p#Bird{
+	font-family: 'Shrikhand', cursive;
+	font-size: 50px;
+	color: #009811 ;
+	text-shadow: 5px 5px 5px #0C2C10 ;
+
+}
+p#Stockton{
+	font-family: 'Mogra', cursive;
+	font-size: 50px;
+	color: #00C3E3   ;
+	text-shadow: 5px 5px 5px #8900E3  ;
+
+}
+p#Magic{
+	font-family: 'Faster One', cursive;
+	font-size: 40px;
+	color: #FFD600 ;
+	text-shadow: 5px 5px 5px #A900FF ;
+}
+/*letra columna enlaces*/
+p{
+	font-family: 'Grenze';
+	font-size: 20px;
+}
